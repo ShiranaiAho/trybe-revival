@@ -1,0 +1,8 @@
+Internet
+Unix
+Bash
+SSH
+Shell
+PID
+Kernel
+ZSH
