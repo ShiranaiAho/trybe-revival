@@ -7,8 +7,8 @@ I need to learn English, so I'll write everything in English, trying to improve 
 
 ### Creating a versionate project! - Step by Step (by me)
 
-1. Create your folder and start git, with ```git init```
-3. Create a branch for a new feature, with ```git checkout -b <branch-name>```
-4. Make your changes, and when finished, add them to the stage, with ```git add .```
-5. Make a commit, explaning your changes with a message , with ```git commit -m "message"```
-6. When you're done (make sure everything is right), merge this branch with your main branch, with ```git merge <branch-name>```
+1. Create your folder and start git, with `git init`
+3. Create a branch for a new feature, with `git checkout -b <branch-name>`
+4. Make your changes, and when finished, add them to the stage, with `git add .`
+5. Make a commit, explaning your changes with a message , with `git commit -m "message"`
+6. When you're done (make sure everything is right), merge this branch with your main branch, with `git merge <branch-name>`
