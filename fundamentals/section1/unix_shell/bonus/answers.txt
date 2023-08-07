@@ -1,0 +1,11 @@
+
+  1  cmtrix
+  2  fortune > fortune.txt
+  3  wc -m fortune.txt 
+  4  sl
+  4  sl -F
+  5  cowsay "Alo"
+  5  cat fortune.txt | cowsay
+  6  factor 42
+  7  rev fortune.txt 
+  8  telnet towel.blinkenlights.nl

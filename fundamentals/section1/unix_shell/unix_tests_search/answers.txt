@@ -1,0 +1,15 @@
+ curl -o countries.txt "https://gist.githubusercontent.com/kalinchernev/486393efcca01623b18d/raw/daa24c9fea66afb7d68f8d69f0c4b8eeb9406e83/countries"
+
+  1  cat countries.txt
+  2  less countries.txt                              // more countries.txt
+  3  less countries.txt                              // utilizando o "/"
+  4  grep "Brazil" countries.txt
+  5  grep -i "brazil" countries.txt
+  6  grep -iv "fox" phrases.txt
+  7  wc -w phrases.txt
+  8  wc -l phrases.txt
+  9  touch empty.tbt empty.pdf
+  10 ls
+  11 ls *.txt
+  12 ls *.t?t
+  13 man ls

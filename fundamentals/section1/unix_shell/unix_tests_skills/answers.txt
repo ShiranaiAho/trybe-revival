@@ -1,0 +1,15 @@
+
+  1  mkdir unix_tests_skills
+  1  cd unix_tests_skills
+  2  cat > skill2.txt
+  3  cat >> skills2.txt
+  3  sort skills2.txt
+  4  wc -l skills2.txt
+  5  sort skills2.txt | head -3 > top_skills.txt
+  6  cat > phrases2.txt
+  7  grep -i "br" phrases2.txt | wc -l
+  8  grep -iv "br" phrases2.txt | wc -l
+  9  cat >> phrases2.txt
+  10 cat ../unix_tests_search/countries.txt phrases2.txt >> bunch_of_things.txt
+  11 sort bunch_of_things.txt
+
